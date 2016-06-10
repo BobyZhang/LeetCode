@@ -4,6 +4,7 @@
 + \#6. ZigZag Conversion
 + \#14. Longest Common Prefix
 + \#21. Merge Two Sorted Lists
++ \#24. Swap Nodes in Pairs
 + \#38. Count and Say
 + \#88. Merge Sorted Array
 + \#121. Best Time to Buy and Sell Stock
@@ -51,7 +52,7 @@ Write a function to find the longest common prefix string amongst an array of st
 
 
 
-### \#22. Merge Two Sorted Lists
+### \#21. Merge Two Sorted Lists
 **LeetCode Link:**
 
 [https://leetcode.com/problems/merge-two-sorted-lists/](https://leetcode.com/problems/merge-two-sorted-lists/)
@@ -62,11 +63,34 @@ Merge two sorted linked lists and return it as a new list. The new list should b
 
 **Source code:**
 
-
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2321Merge_Two_Sorted_Lists.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2321Merge_Two_Sorted_Lists.cpp)
 
 **Detail:**
 
 Notice the pointer
+
+### \#24. Swap Nodes in Pairs
+**LeetCode Link:**
+
+[https://leetcode.com/problems/swap-nodes-in-pairs/](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
+**Problem description:**
+
+Given a linked list, swap every two adjacent nodes and return its head.
+
+For example,
+Given `1->2->3->4`, you should return the list as `2->1->4->3`.
+
+Your algorithm should use only constant space. You may not modify the values in the list, only nodes itself can be changed.
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2324Swap_Nodes_in_Pairs.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2324Swap_Nodes_in_Pairs.cpp)
+
+**Detail:**
+
+*Note*: When link-list, paint
+
 
 ### \#32. Count and Say
 **LeetCode Link:**
