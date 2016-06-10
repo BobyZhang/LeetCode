@@ -7,6 +7,7 @@
 + \#38. Count and Say
 + \#88. Merge Sorted Array
 + \#121. Best Time to Buy and Sell Stock
++ \#169. Majority Element
 
 ## Detail
 ### \#6. ZigZag conversion
@@ -122,6 +123,59 @@ If you were only permitted to complete at most one transaction (ie, buy one and 
 **Detail:**
 
 This is a `Dynamic Programing`. Iteration may time excced, so must use recurrence.
+
+### \#169. Majority Element
+**LeetCode Link:**
+
+[https://leetcode.com/problems/majority-element/](https://leetcode.com/problems/majority-element/)
+
+**Problem description:**
+
+Given an array of size n, find the majority element. The majority element is the element that appears more than `⌊ n/2 ⌋` times.
+
+You may assume that the array is non-empty and the majority element always exist in the array.
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23169Majority_Element.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23169Majority_Element.cpp)
+
+**Detail:**
+
+*Warming*: qsort just use in array, not POD or any struct.
+
+### \#
+**LeetCode Link:**
+
+
+
+**Problem description:**
+
+
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23.cpp]()
+
+**Detail:**
+
+
+
+### \#
+**LeetCode Link:**
+
+
+
+**Problem description:**
+
+
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23.cpp]()
+
+**Detail:**
+
+
 
 ### \#
 **LeetCode Link:**
