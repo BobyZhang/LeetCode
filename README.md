@@ -7,6 +7,7 @@
 + \#24. Swap Nodes in Pairs
 + \#38. Count and Say
 + \#88. Merge Sorted Array
++ \#112. Path Sum
 + \#121. Best Time to Buy and Sell Stock
 + \#169. Majority Element
 
@@ -18,13 +19,13 @@
 
 **Problem description:**
 
-The string `"PAYPALISHIRING"` is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fiexd font for better legibility)
-```
-  P   A   H   N
-  A P L S I I G
-  Y   I   R
-```
-And then read line by line: `"PAHNAPLSIIGYIR"`
+>The string `"PAYPALISHIRING"` is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fiexd font for better legibility)
+>```
+>  P   A   H   N
+>  A P L S I I G
+>  Y   I   R
+>```
+>And then read line by line: `"PAHNAPLSIIGYIR"`
 
 **Source code:**
 
@@ -41,15 +42,13 @@ And then read line by line: `"PAHNAPLSIIGYIR"`
 
 **Problem description:**
 
-Write a function to find the longest common prefix string amongst an array of strings.
+>Write a function to find the longest common prefix string amongst an array of strings.
 
 **Source code:**
 
 [https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2314Longest_Common_Prefix.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2314Longest_Common_Prefix.cpp)
 
 **Detail:**
-
-
 
 
 ### \#21. Merge Two Sorted Lists
@@ -59,7 +58,7 @@ Write a function to find the longest common prefix string amongst an array of st
 
 **Problem description:**
 
-Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+>Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
 
 **Source code:**
 
@@ -76,12 +75,12 @@ Notice the pointer
 
 **Problem description:**
 
-Given a linked list, swap every two adjacent nodes and return its head.
-
-For example,
-Given `1->2->3->4`, you should return the list as `2->1->4->3`.
-
-Your algorithm should use only constant space. You may not modify the values in the list, only nodes itself can be changed.
+>Given a linked list, swap every two adjacent nodes and return its head.
+>
+>For example,
+>Given `1->2->3->4`, you should return the list as `2->1->4->3`.
+>
+>Your algorithm should use only constant space. You may not modify the values in the list, only nodes itself can be changed.
 
 **Source code:**
 
@@ -99,17 +98,15 @@ Your algorithm should use only constant space. You may not modify the values in 
 
 **Problem description:**
 
-The count-and-say sequence is the sequence of integers beginning as follows:
-
-`1, 11, 21, 1211, 111221, ...`
+>The count-and-say sequence is the sequence of integers beginning as follows:
+>
+>`1, 11, 21, 1211, 111221, ...`
 
 **Source code:**
 
 [https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2332Count_and_Say.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2332Count_and_Say.cpp)
 
 **Detail:**
-
-
 
 ### \#88. Merge Sorted Array
 **LeetCode Link:**
@@ -118,9 +115,9 @@ The count-and-say sequence is the sequence of integers beginning as follows:
 
 **Problem description:**
 
-Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
-
-*Note*: You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.
+>Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
+>
+>*Note*: You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2. The number of elements initialized in nums1 and nums2 are m and n respectively.
 
 **Source code:**
 
@@ -129,6 +126,36 @@ Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one s
 **Detail:**
 
 
+### \#112. Path Sum
+**LeetCode Link:**
+
+[https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
+
+**Problem description:**
+
+>Given a binary tree and a sum, determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.
+>
+>For example:
+>Given the below binary tree and sum = 22,
+>```
+>              5
+>             / \
+>            4   8
+>           /   / \
+>          11  13  4
+>         /  \      \
+>        7    2      1
+>```
+>return true, as there exist a root-to-leaf path `5->4->11->2` which sum is 22.
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23112Path_Sum.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23112Path_Sum.cpp)
+     
+**Detail:**
+
+*Warming*: what is leaf!
+
 ### \#121. Best Time to Buy and Sell Stock
 **LeetCode Link:**
 
@@ -136,9 +163,9 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 **Problem description:**
 
-Say you have an array for which the ith element is the price of a given stock on day i.
-
-If you were only permitted to complete at most one transaction (ie, buy one and sell one share of the stock), design an algorithm to find the maximum profit.
+>Say you have an array for which the ith element is the price of a given stock on day i.
+>
+>If you were only permitted to complete at most one transaction (ie, buy one and sell one share of the stock), design an algorithm to find the maximum profit.
 
 **Source code:**
 
@@ -155,9 +182,9 @@ This is a `Dynamic Programing`. Iteration may time excced, so must use recurrenc
 
 **Problem description:**
 
-Given an array of size n, find the majority element. The majority element is the element that appears more than `⌊ n/2 ⌋` times.
-
-You may assume that the array is non-empty and the majority element always exist in the array.
+>Given an array of size n, find the majority element. The majority element is the element that appears more than `⌊ n/2 ⌋` times.
+>
+>You may assume that the array is non-empty and the majority element always exist in the array.
 
 **Source code:**
 
