@@ -6,6 +6,7 @@
 + \#21. Merge Two Sorted Lists
 + \#24. Swap Nodes in Pairs
 + \#38. Count and Say
++ \#73. Set Matrix Zeroes
 + \#88. Merge Sorted Array
 + \#112. Path Sum
 + \#121. Best Time to Buy and Sell Stock
@@ -108,6 +109,24 @@ Notice the pointer
 [https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2332Count_and_Say.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2332Count_and_Say.cpp)
 
 **Detail:**
+
+
+### \#73. Set Matrix Zeroes
+**LeetCode Link:**
+
+[https://leetcode.com/problems/set-matrix-zeroes/](https://leetcode.com/problems/set-matrix-zeroes/)
+
+**Problem description:**
+
+>Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in place.
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2373Set_Matrix_Zeroes.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2373Set_Matrix_Zeroes.cpp)
+
+**Detail:**
+
+Use *row 1* and *col 1* to save status, must save *row 1* and *col 1*'a status.
 
 ### \#88. Merge Sorted Array
 **LeetCode Link:**
@@ -226,22 +245,6 @@ This is a `Dynamic Programing`. Iteration may time excced, so must use recurrenc
 **Detail:**
 
 *Warming*: qsort just use in array, not POD or any struct.
-
-### \#
-**LeetCode Link:**
-
-
-
-**Problem description:**
-
-
-
-**Source code:**
-
-[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23.cpp]()
-
-**Detail:**
-
 
 
 ### \#
