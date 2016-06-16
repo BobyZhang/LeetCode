@@ -9,6 +9,7 @@
 + \#88. Merge Sorted Array
 + \#112. Path Sum
 + \#121. Best Time to Buy and Sell Stock
++ \#129. Sum Root to Leaf Numbers
 + \#169. Majority Element
 
 ## Detail
@@ -155,6 +156,38 @@ Notice the pointer
 **Detail:**
 
 *Warming*: what is leaf!
+
+### \#129. Sum Root to Leaf Numbers
+**LeetCode Link:**
+
+[https://leetcode.com/problems/sum-root-to-leaf-numbers/](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+
+**Problem description:**
+
+>Given a binary tree containing digits from 0-9 only, each root-to-leaf path could represent a number.
+>
+>An example is the root-to-leaf path `1->2->3` which represents the number 123.
+>
+>Find the total sum of all root-to-leaf numbers.
+>
+>For example,
+>```
+>    1
+>   / \
+>  2   3
+>```
+>The root-to-leaf path `1->2` represents the number `12`.
+>The root-to-leaf path `1->3` represents the number `13`.
+>
+>Return the sum = `12` + `13` = `25`.
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23129Sum_Root_to_Leaf_Numbers.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23129Sum_Root_to_Leaf_Numbers.cpp)
+
+**Detail:**
+
+
 
 ### \#121. Best Time to Buy and Sell Stock
 **LeetCode Link:**
