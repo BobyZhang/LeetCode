@@ -5,6 +5,7 @@
 + \#14. Longest Common Prefix
 + \#21. Merge Two Sorted Lists
 + \#24. Swap Nodes in Pairs
++ \#34. Search for a Range
 + \#35. Search Insert Position
 + \#38. Count and Say
 + \#73. Set Matrix Zeroes
@@ -109,6 +110,30 @@ Notice the pointer
 **Source code:**
 
 [https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2332Count_and_Say.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2332Count_and_Say.cpp)
+
+**Detail:**
+
+
+### \#34. Search for a Range
+**LeetCode Link:**
+
+[https://leetcode.com/problems/search-insert-position/](https://leetcode.com/problems/search-insert-position/)
+
+**Problem description:**
+
+>Given a sorted array of integers, find the starting and ending position of a given target value.
+>
+>Your algorithm's runtime complexity must be in the order of `O(log n).
+>
+>If the target is not found in the array, return `[-1, -1]`.
+>
+>For example,
+>Given `[5, 7, 7, 8, 8, 10]` and target value 8,
+>return `[3, 4]`.
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2334Search_for_a_Range.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2334Search_for_a_Range.cpp)
 
 **Detail:**
 
