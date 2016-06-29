@@ -96,6 +96,58 @@ Notice the pointer
 
 *Note*: When link-list, paint
 
+### \#26. Remove Duplicates from Sorted Array
+**LeetCode Link:**
+
+[https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+**Problem description:**
+
+>Given a sorted array, remove the duplicates in place such that each element appear only once and return the new length.
+>
+>Do not allocate extra space for another array, you must do this in place with constant memory. 
+>
+>For example,
+>
+> Given input array nums = `[1,1,2]`, 
+>
+>Your function should return length = `2`, with the first two elements of nums being `1` and `2` respectively. It doesn't matter what you leave beyond the new length. 
+
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2326Remove_Duplicates_from_Sorted_Array.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2326Remove_Duplicates_from_Sorted_Array.cpp)
+
+**Detail:**
+
+*Note*: Two point
+
+### \#26. Remove Element
+**LeetCode Link:**
+
+[https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/)
+
+**Problem description:**
+
+>Given an array and a value, remove all instances of that value in place and return the new length. 
+>
+>Do not allocate extra space for another array, you must do this in place with constant memory.
+>
+>The order of elements can be changed. It doesn't matter what you leave beyond the new length.
+>
+>Example:
+>
+> Given input array nums = `[3,2,2,3]`, val = `3` 
+>
+>Your function should return length = `2`, with the first two elements of nums being `2`.
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2327Remove_Element.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2327Remove_Element.cpp)
+
+**Detail:**
+
+*Note*: Two point
 
 ### \#32. Count and Say
 **LeetCode Link:**
@@ -118,7 +170,7 @@ Notice the pointer
 ### \#34. Search for a Range
 **LeetCode Link:**
 
-[https://leetcode.com/problems/search-insert-position/](https://leetcode.com/problems/search-insert-position/)
+[https://leetcode.com/problems/search-for-a-range/](https://leetcode.com/problems/search-for-a-range/)
 
 **Problem description:**
 
