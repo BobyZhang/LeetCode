@@ -12,6 +12,7 @@
 + \#88. Merge Sorted Array
 + \#112. Path Sum
 + \#121. Best Time to Buy and Sell Stock
++ \#125. Valid Palindrome
 + \#129. Sum Root to Leaf Numbers
 + \#169. Majority Element
 + \#278. First Bad Version
@@ -226,6 +227,28 @@ Use *row 1* and *col 1* to save status, must save *row 1* and *col 1*'a status.
 **Detail:**
 
 *Warming*: what is leaf!
+
+### \#125. Valid Palindrome
+**LeetCode Link:**
+
+[https://leetcode.com/problems/valid-palindrome/](https://leetcode.com/problems/valid-palindrome/)
+
+**Problem description:**
+
+>Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
+>
+>For example,
+>
+>`"A man, a plan, a canal: Panama"` is a palindrome.
+>
+>`"race a car"` is not a palindrome.
+
+**Source code:**
+
+[https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23125Valid_Palindrome.cpp](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23125Valid_Palindrome.cpp)
+
+**Detail:**
+
 
 ### \#129. Sum Root to Leaf Numbers
 **LeetCode Link:**
