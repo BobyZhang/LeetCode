@@ -22,3 +22,4 @@
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%238String_to_Integer_(atoi).cpp)|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%238String_to_Integer_(atoi).cpp)|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2328Implement_strStr().cpp)|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2338Count_and_Say.cpp)|
