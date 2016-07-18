@@ -14,3 +14,8 @@
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23102Binary_Tree_Level_Order_Traversal.cpp)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23107Binary_Tree_Level_Order_Traversal_II.cpp)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23111Minimum_Depth_of_Binary_Tree.cpp)|
+
+## String
+| # | Title | Solution |
+|---|-------|----------|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23#5Longest_Palindromic_Substring.cpp)|
