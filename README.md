@@ -24,3 +24,4 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2328Implement_strStr().cpp)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2338Count_and_Say.cpp)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2343Multiply_Strings.cpp)|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2358Length_of_Last_Word.cpp)|
