@@ -5,10 +5,12 @@
 |---|-------|----------|
 |26 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2326Remove_Duplicates_from_Sorted_Array.cpp)|
 |27 |[Remove Element](https://leetcode.com/problems/remove-element/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2327Remove_Element.cpp)|
+|61 |[Rotate List](https://leetcode.com/problems/rotate-list/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23Rotate_List.cpp) |
 |66 |[Plus One](https://leetcode.com/problems/plus-one/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2366Plus_One.cpp)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23118Pascals_Triangle.cpp)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23119Pascals_Triangle_II.cpp)|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23189Rotate_Array.cpp)|
+
 
 ## Tree
 | # | Title | Solution |
