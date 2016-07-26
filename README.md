@@ -8,6 +8,7 @@
 |66 |[Plus One](https://leetcode.com/problems/plus-one/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2366Plus_One.cpp)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23118Pascals_Triangle.cpp)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23119Pascals_Triangle_II.cpp)|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23189Rotate_Array.cpp)|
 
 ## Tree
 | # | Title | Solution |
