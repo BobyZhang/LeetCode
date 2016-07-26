@@ -7,6 +7,7 @@
 |27 |[Remove Element](https://leetcode.com/problems/remove-element/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2327Remove_Element.cpp)|
 |66 |[Plus One](https://leetcode.com/problems/plus-one/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2366Plus_One.cpp)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23118Pascals_Triangle.cpp)|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23119Pascals_Triangle_II.cpp)|
 
 ## Tree
 | # | Title | Solution |
