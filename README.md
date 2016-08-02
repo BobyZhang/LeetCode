@@ -16,7 +16,7 @@
 | # | Title | Solution |
 |---|-------|----------|
 |148|[Sort List](https://leetcode.com/problems/sort-list/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23148Sort_List.cpp) |
-
+|274|[H-Index](https://leetcode.com/problems/h-index/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23274H_Index.cpp) |
 
 ## Tree
 | # | Title | Solution |
@@ -35,3 +35,14 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2338Count_and_Say.cpp)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2343Multiply_Strings.cpp)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2358Length_of_Last_Word.cpp)|
+
+## Binary Search
+| # | Title | Solution |
+|---|-------|----------|
+|74 |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2374Search_a_2D_Matrix.cpp)|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23275H_Index_II.cpp)|
+
+## Math
+| # | Title | Solution |
+|---|-------|----------|
+|9  |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%239Palindrome_Number.cpp)|
