@@ -12,6 +12,11 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23119Pascals_Triangle_II.cpp)|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23189Rotate_Array.cpp)|
 
+## Sort
+| # | Title | Solution |
+|---|-------|----------|
+|148|[Sort List](https://leetcode.com/problems/sort-list/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23148Sort_List.cpp) |
+
 
 ## Tree
 | # | Title | Solution |
