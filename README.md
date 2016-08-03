@@ -46,3 +46,14 @@
 | # | Title | Solution |
 |---|-------|----------|
 |9  |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%239Palindrome_Number.cpp)|
+
+## Stack
+| # | Title | Solution |
+|---|-------|----------|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23101Symmetric_Tree.cpp)|
+
+## Recursion
+| # | Title | Solution |
+|---|-------|----------|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23104Maximum_Depth_of_Binary_Tree.cpp)|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23110Balanced_Binary_Tree.cpp)|
