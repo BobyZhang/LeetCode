@@ -57,3 +57,9 @@
 |---|-------|----------|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23104Maximum_Depth_of_Binary_Tree.cpp)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23110Balanced_Binary_Tree.cpp)|
+
+
+## Greedy
+| # | Title | Solution |
+|---|-------|----------|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23122Best_Time_to_Buy_and_Sell_Stock_II.cpp)|
