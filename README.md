@@ -7,10 +7,16 @@
 |27 |[Remove Element](https://leetcode.com/problems/remove-element/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2327Remove_Element.cpp)|
 |61 |[Rotate List](https://leetcode.com/problems/rotate-list/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23Rotate_List.cpp) |
 |66 |[Plus One](https://leetcode.com/problems/plus-one/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2366Plus_One.cpp)|
-|75 |[Sort Colors](https://leetcode.com/problems/sort-colors/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2375Sort_Colors.cpp.cpp)|
+|75 |[Sort Colors](https://leetcode.com/problems/sort-colors/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2375Sort_Colors.cpp)|
+|78 |[Subsets](https://leetcode.com/problems/subsets/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2378Subsets.cpp)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23118Pascals_Triangle.cpp)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23119Pascals_Triangle_II.cpp)|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23189Rotate_Array.cpp)|
+
+## Linked List
+| # | Title | Solution |
+|---|-------|----------|
+|86 |[Partition List](https://leetcode.com/problems/partition-list/)|[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2386Partition_List.cpp)|
 
 ## Sort
 | # | Title | Solution |
@@ -61,9 +67,15 @@
 ## Greedy
 | # | Title | Solution |
 |---|-------|----------|
+|55 |[Jump Game](https://leetcode.com/problems/jump-game/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%2355Jump_Game.cpp)|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23122Best_Time_to_Buy_and_Sell_Stock_II.cpp)|
 
 ## Hash Table
 | # | Title | Solution |
 |---|-------|----------|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23205Isomorphic_Strings.cpp)|
+
+## Bit Manipulation
+| # | Title | Solution |
+|---|-------|----------|
+|136|[Single Number](https://leetcode.com/problems/single-number/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23136Single_Number.cpp)|
