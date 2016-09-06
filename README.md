@@ -53,6 +53,11 @@
 |---|-------|----------|
 |9  |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%239Palindrome_Number.cpp)|
 
+## Brainteaser
+| # | Title | Solution |
+|---|-------|----------|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/) |[C++](https://github.com/BobyZhang/LeetCode/blob/master/LeetCodeSolution/%23292Nim_Game.cpp)|
+
 ## Stack
 | # | Title | Solution |
 |---|-------|----------|
